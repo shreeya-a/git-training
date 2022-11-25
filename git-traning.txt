@@ -1,6 +1,18 @@
 -------------------------
 Git Training
 --------------------------
+*learn git shortcut commands
+
+--push garda--
+ if on a diff branch use that branch name ko file
+git push origin login-code
+
+vim--> creates a new file
+vim test.txt --> text.txt file create  huncha then adkincha 
+exit from vim-->esc+:+w+q
+
+
+touch <filename>  ->> creates a new file
 git log ---> sabb kaam bhako dekhaucha
 
 git checkout -b <branchname>  ---> creates a branch, original ko sab copy bhayera aaucha
