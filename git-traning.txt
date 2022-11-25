@@ -1,6 +1,8 @@
 -------------------------
 Git Training
 --------------------------
+*learn git shortcut commands
+
 git log ---> sabb kaam bhako dekhaucha
 
 git checkout -b <branchname>  ---> creates a branch, original ko sab copy bhayera aaucha
