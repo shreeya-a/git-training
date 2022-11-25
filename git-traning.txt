@@ -1,0 +1,11 @@
+-------------------------
+Git Training
+--------------------------
+git log ---> sabb kaam bhako dekhaucha
+
+git checkout -b <branchname>  ---> creates a branch, original ko sab copy bhayera aaucha
+eg: git checkout -b mukesh
+git checkout main ---> takes us to main branch
+
+git merge mukesh --> mukesh ko kaam main ma merge  huncha
+
